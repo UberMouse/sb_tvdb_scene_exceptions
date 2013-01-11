@@ -238,3 +238,4 @@
 186911: 'Hyakka Ryouran: Samurai Girls', 'Samurai Girls (2010)', 'Samurai Girls',
 73762: 'Grey\'s Anatomy', 'Greys Anatomy',
 95491: 'Vampire Diaries', 'The Vampire Diaries',
+80501: 'Derren Brown: Mind Control', 'Mind Control with Derren Brown',
