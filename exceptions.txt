@@ -251,3 +251,5 @@
 264450: 'Legit',
 264535: 'Storage Wars NY',
 76817: 'The Ponderosa',
+257564: 'Der XXL-Ostfriese', 'Der XXL Ostfriese',
+222811: 'Ich bin ein Star', 'Ich bin ein Star - Holt mich hier raus',
