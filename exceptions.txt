@@ -147,7 +147,7 @@
 248836: 'The River',
 165521: 'Girls Gone Wild The Search for the Hottest Girl in America',
 72829: 'The Apprentice', 'The Apprentice US',
-198861: 'Film 2012 with Claudia Winkleman', 'Film 2011 with Claudia Winkleman',
+198861: 'Film 2012 with Claudia Winkleman', 'Film 2011 with Claudia Winkleman', 'Film 2013 with Claudia Winkleman',
 79836: 'Dragon\'s Den (UK)',
 74946: 'C.O.P.S.',
 253485: 'The Syndicate 2012', 'The Syndicate',
@@ -253,3 +253,4 @@
 76817: 'The Ponderosa',
 257564: 'Der XXL-Ostfriese', 'Der XXL Ostfriese',
 222811: 'Ich bin ein Star', 'Ich bin ein Star - Holt mich hier raus',
+257550: 'Bellator FC',
