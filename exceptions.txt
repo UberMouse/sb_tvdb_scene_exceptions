@@ -254,3 +254,4 @@
 257564: 'Der XXL-Ostfriese', 'Der XXL Ostfriese',
 222811: 'Ich bin ein Star', 'Ich bin ein Star - Holt mich hier raus',
 257550: 'Bellator FC',
+258773: 'Zero Hour US',
