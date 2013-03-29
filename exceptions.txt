@@ -257,3 +257,5 @@
 258773: 'Zero Hour', 'Zero Hour (2013)', 'Zero Hour US',
 262980: 'House of Cards 2013',
 79824: 'Naruto Shippuden',
+178141: 'My Ghost Story',
+74372: 'Blue Planet',
