@@ -284,7 +284,7 @@
 267206: 'Low Winter Sun', 'Low Winter Sun US',
 76703: 'Pokemon',
 271902: 'Legend of Shelby The Swamp Man',
-267543: 'Hulk and the Agents of S M A S H',
+267543: 'Hulk and the Agents of S M A S H', 'Hulk and the Agents of SMASH',
 128521: 'Million Dollar Listing',
 72301: 'Penn and Teller Bullshit',
 259047: 'VGHS',
