@@ -263,7 +263,7 @@
 88631: 'Krod Mandoon',
 259669: 'DaVincis Demons',
 72449: 'Stargate SG1',
-264030: 'Avengers Assemble',
+264030: 'Avengers Assemble', 'Marvels Avengers Assemble',
 269552: 'Harry (2013)',
 73893: 'Enterprise',
 250267: 'The Food Truck NZ',
@@ -298,3 +298,5 @@
 269589: 'Dads',
 269637: 'The Michael J Fox Show',
 269586: 'Brooklyn Nine Nine',
+80964: 'Yo Gabba Gabba',
+
