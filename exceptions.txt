@@ -1,3 +1,4 @@
+267441: 'Hataraku Maou-sama'
 173271: 'Seitokai Yakuindomo'
 272697: 'Kyoukai no Kanata'
 272314: 'NouKome'
