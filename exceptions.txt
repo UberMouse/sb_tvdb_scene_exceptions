@@ -1,6 +1,6 @@
 279986: 'Terror in Resonance', 'Zankyou no Terror' 
 279804: 'Gekkan Shoujo Nozaki-kun'
-279554: 'Au Haru Ride', 'Blue Spring Ride'
+279554: 'Ao Haru Ride', 'Blue Spring Ride'
 277464: 'Ping Pong', 'Ping Pong the Animation'
 278199: 'Mekakucity Actors'
 271687: 'The Pilot\\'s Love Song', 'The Pilot's Love Song'
